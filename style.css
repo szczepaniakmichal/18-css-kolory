@@ -1,0 +1,20 @@
+#container{
+    background-color: cornsilk;
+    padding: 10px 10px 30px;
+}
+h1{
+    color: red;
+    font-size: 48px;
+    margin: 15px 0 120px;
+   
+}
+.paragraf{
+    font-size: 36px;
+    margin: 30px 0 120px;
+}
+#p1{
+    color: darkred;
+}
+#p2{
+    color: blue;
+}
